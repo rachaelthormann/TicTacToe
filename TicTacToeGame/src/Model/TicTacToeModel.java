@@ -1,8 +1,8 @@
 package Model;
 
-public class TicTacToeModel {
+import java.util.Observable;
 
-    public static void main(String[] args) {
-	// write your code here
-    }
+public class TicTacToeModel extends Observable {
+
+
 }
