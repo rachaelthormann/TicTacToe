@@ -2,10 +2,10 @@ package Model;
 
 import java.util.Observable;
 
-//I love you!!!!!
+
 /**
- * A class that will hold information
- * about the Tic Tac Toe game, including piece positions,
+ * The backend functionality and data representation
+ * of the Tic Tac Toe game. Includes piece positions,
  * legal moves and win determination.
  *
  * @author Rachael & Phil <3
